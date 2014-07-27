@@ -6,6 +6,8 @@
 ## been calculated and the matrix has not changed then the function will
 ## return the cached matrix inverse rather than recalculate it.
 ##
+## Both functions are based on the examples that were given as part of the
+## assignment.
 
 ## Write a short comment describing this function
 
